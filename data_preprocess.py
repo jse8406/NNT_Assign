@@ -36,16 +36,16 @@ for channel in ad_channel:
             # print(cost_sum)
             
         
-CVR = complete_registration_count / install_users
+CVR_I2CR = complete_registration_count / install_users
 CPA = cost_sum / purchase_count
-CVR = purchase_users / complete_registration_count
+CVR_CR2P = purchase_users / complete_registration_count
 CAC_signup = cost_sum / complete_registration_count
 CAC_install = cost_sum / install_users
 CAC_purchase = cost_sum / purchase_users
 
-print(f"CVR : {CVR:.3f}")
+print(f"CVR : {CVR_I2CR:.3f}")
 print(f"CPA : {CPA:.3f}")
-print(f"CVR : {CVR:.3f}")
+print(f"CVR : {CVR_CR2P:.3f}")
 print(f"CAC_signup : {CAC_signup:.3f}")
 print(f"CAC_install : {CAC_install:.3f}")
 print(f"CAC_purchase : {CAC_purchase:.3f}")
