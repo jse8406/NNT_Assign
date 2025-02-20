@@ -2,3 +2,26 @@ Install Count: 85121
 Complete Registration Count: 33810
 Purchase Count: 168695
 Purchase User Count: 124527
+
+
+# appsflyer.csv col info :
+
+#     Install Time                                      2023-01-10 23:49:20
+#     Event Time                                        2023-01-10 23:49:20
+#     Event Name                                                    install
+#     Event Value                                                       NaN
+#     Event Revenue                                                     NaN
+#     Media Source                                                    naver
+#     Channel                                        brandsearch_event_list
+#     Campaign ID                                                       NaN
+#     Adset ID                                                          NaN
+#     Ad ID                                                             NaN
+#     AppsFlyer ID                                    1673362141929-3339631
+#     Customer User ID                                                  NaN
+#     Android ID                                                        NaN
+#     Advertising ID                                                    NaN
+#     IDFA                             13B95E3C-4192-432E-9482-60CF264BC24C
+#     IDFV                             3339C631-9C60-494F-942E-C1ECD13E8D7E
+#     Platform                                                          ios
+#     Original URL        https://burgerkingkor.onelink.me/U3PL?af_web_d...
+#     Keywords                                                          NaN
