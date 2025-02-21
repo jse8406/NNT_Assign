@@ -4,7 +4,7 @@ Purchase Count: 168695
 Purchase User Count: 124527
 
 
-# appsflyer.csv col info :
+# appsflyer col info :
 
 #     Install Time                                      2023-01-10 23:49:20
 #     Event Time                                        2023-01-10 23:49:20
@@ -25,3 +25,13 @@ Purchase User Count: 124527
 #     Platform                                                          ios
 #     Original URL        https://burgerkingkor.onelink.me/U3PL?af_web_d...
 #     Keywords                                                          NaN
+
+# apple_adchannel col info
+impressions,taps,installs,newDownloads,redownloads,latOnInstalls,latOffInstalls,ttr,avgCPA,avgCPT,localSpend,conversionRate,date,keywordId,keywordStatus,matchType,bidAmount,deleted,keywordDisplayStatus,adGroupId,adGroupName,adGroupDeleted,modificationTime,countryOrRegion,campaignId,campaignName,campaignStatus,billingEvent,adGroupStatus
+
+# moloco_adchannel col info
+date,app,campaign_id,campaign,impressions,clicks,installs,installs_ct,conversions,cost,revenue,af_complete_registration,af_purchase,channel
+
+# twitter_adchannel col info
+
+id,segment,impressions,mobile_conversion_spent_credits,mobile_conversion_installs,mobile_conversion_content_views,mobile_conversion_add_to_wishlists,mobile_conversion_checkouts_initiated,tweets_send,mobile_conversion_reservations,mobile_conversion_tutorials_completed,billed_charge,qualified_impressions,follows,mobile_conversion_achievements_unlocked,app_clicks,mobile_conversion_searches,mobile_conversion_site_visits,retweets,mobile_conversion_key_page_views,unfollows,likes,mobile_conversion_add_to_carts,mobile_conversion_payment_info_additions,mobile_conversion_re_engages,mobile_conversion_shares,engagements,clicks,mobile_conversion_sign_ups,card_engagements,poll_card_vote,replies,url_clicks,mobile_conversion_purchases,mobile_conversion_rates,mobile_conversion_logins,billed_engagements,mobile_conversion_updates,mobile_conversion_levels_achieved,mobile_conversion_downloads,mobile_conversion_invites,carousel_swipes,mobile_conversion_purchases_amount,name,campaign_id,campaign_name,date
